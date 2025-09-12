@@ -1,4 +1,15 @@
-@tailwind base;
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&family=Merriweather:wght@400;700&display=swap');
+/* @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
+body {
+  background: yellow;
+} */
+@import "tailwindcss";
+
+@layer base {
+  body {
+    /* @apply bg-yellow-200; test if tailwind runs */
+  }
+}

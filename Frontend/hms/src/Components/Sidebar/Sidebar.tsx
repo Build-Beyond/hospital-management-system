@@ -1,0 +1,11 @@
+import React from 'react'
+
+const Sidebar = () => {
+  return (
+    <div className='W 64 bg-red-200'>
+      Sidebar
+    </div>
+  )
+}
+
+export default Sidebar
