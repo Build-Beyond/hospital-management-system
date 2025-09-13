@@ -2,7 +2,7 @@ import React from 'react'
 
 const Sidebar = () => {
   return (
-    <div className='W 64 bg-red-200'>
+    <div className='w-64 bg-red-200'>
       Sidebar
     </div>
   )
